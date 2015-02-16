@@ -8,4 +8,4 @@ I am a software developer working with Agile teams. I am based in London, United
 
 ### Get in touch
 
-[email@domain.com](mailto:richard.vidis@live.co.uk)
+[richard.vidis@live.co.uk](mailto:richard.vidis@live.co.uk)
