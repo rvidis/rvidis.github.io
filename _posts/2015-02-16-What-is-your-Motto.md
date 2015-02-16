@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is your Motto
+title: What is your Motto?
 ---
 
 ##Creating your own personal brand for job interviews.##
@@ -13,13 +13,13 @@ Nothing special, is it? I would still make sure that this sentence sticks in my 
 
 Here is an example I have encountered countless times when interviewing a candidate claiming that quality is their priority:
 
-**Question I have asked:** How do you ensure quality?
+**Question I have asked:** How do you ensure quality?  
 **Candidate answered:** I make sure I follow principles like... (good answer, good discussion, candidate understands the common best practices and principles)
 
-**Question I have asked:** So it seems like you are very quality focused, would you say that quality of your craftsmanship is key for you?
+**Question I have asked:** So it seems like you are very quality focused, would you say that quality of your craftsmanship is key for you?  
 **Candidate answers:** Yes, writing maintainable, clean code... (again, solid answer and good discussion)
 
-**Question I have asked:** So imagine product owner comes to you one day and says- we have this deadline which cannot be moved and we still have number of small features to finish. For the business it is unthinkable to sacrifice the deadline. Can you just stop doing all those test, following those crazy quality principles, just make things work so we can get all the features deployed on time. This is really important for us. What would be your response?
+**Question I have asked:** So imagine product owner comes to you one day and says- we have this deadline which cannot be moved and we still have number of small features to finish. For the business it is unthinkable to sacrifice the deadline. Can you just stop doing all those test, following those crazy quality principles, just make things work so we can get all the features deployed on time. This is really important for us. What would be your response?  
 **Candidate answered:** Well, of course I would stop doing what I am doing, stop doing tests and refactoring and just try to get it done.
 
 This is only an example but I hope it represents what I am trying to say. With the last question candidate has just ditched everything he so strongly believes in. It isn't even a trick question, it is just a question that can even further strengthen the stand the candidate took, in regards to what he or she believes is important even if someone questions it. After the last answer I can't stop asking my self if the candidate really believed in what he or she was saying. I am not sure now if the candidate is quality focused or purely focused on pleasing the business. I am unsure if the candidate understands implication of either.
